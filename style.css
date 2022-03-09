@@ -1,0 +1,12 @@
+body{
+    background-color: #FFFFFF;
+} p {
+    font-family: Tahoma;
+    font-size: large;
+} fieldset {
+    background-color: powderblue;
+    margin: 5px;
+    border-width: 2px;
+    border-color: #CFCFCF;
+    border-radius: 10px;         
+}
